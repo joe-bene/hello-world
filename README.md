@@ -1,2 +1,3 @@
 # hello-world
 This repo is for practicing github workflow.
+Hello! My name is Joe Bene, I am currently working as a software engineer for Chubb Insurance, I previously was at L3Harris as a software engineer, and currently live in the downtown area of Philadelphia!  Data science has been an interest of mine since I was a teenager and read the book Moneyball, ever since then I have been on a journey of seeing how data science concepts can impact the world around me, as well as be used to make decisions and gain knowledge about the world! I cannot wait to get started learning and am very excited for a great semester! 
